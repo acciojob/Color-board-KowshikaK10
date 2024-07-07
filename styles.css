@@ -10,7 +10,7 @@
 .square{
 	width: 21px;
 	height: 20px;
-    background-color: #4b5057;
+    background-color: rgb(29, 29, 29);
     margin: 4px;
 	padding:1px;
 }
